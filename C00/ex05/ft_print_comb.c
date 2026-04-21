@@ -6,7 +6,7 @@
 /*   By: sseijas <sergioseijas.ferreiro@gmail.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/21 16:05:45 by sseijas           #+#    #+#             */
-/*   Updated: 2026/04/21 17:11:08 by sseijas          ###   ########.fr       */
+/*   Updated: 2026/04/21 17:13:51 by sseijas          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,8 +47,8 @@ void	ft_print_comb(void)
 	}
 }
 
-int	main(void)
+/*int	main(void)
 {
 	ft_print_comb();
 	return (0);
-}
+}*/
