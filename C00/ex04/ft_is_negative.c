@@ -6,7 +6,7 @@
 /*   By: sseijas <sergioseijas.ferreiro@gmail.com>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/21 11:37:15 by sseijas           #+#    #+#             */
-/*   Updated: 2026/04/21 11:48:59 by sseijas          ###   ########.fr       */
+/*   Updated: 2026/04/21 11:51:16 by sseijas          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,10 +29,10 @@ void	ft_is_negative(int n)
 	}
 }
 
-int	main(void)
+/*int	main(void)
 {
 	ft_is_negative(42);
 	ft_is_negative(0);
 	ft_is_negative(-5);
 	return (0);
-}
+}*/
